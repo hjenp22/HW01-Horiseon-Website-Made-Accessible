@@ -1,5 +1,4 @@
-# HW01-accessibility
-Updating site for accessibility requirements
+# Horiseon Website Made Accessible
 
 ## Description
 To make the exisiting code meet accessibility standards, I modified the exisiting code to be structured for search engines.
@@ -12,11 +11,13 @@ To make the exisiting code meet accessibility standards, I modified the exisitin
 - I then found accessible alt attributes
 - I made sure that the heading attributes are in sequential order
 - I added a creative title regarding the webpage 
+- On the Style CSS sheet I consolidated the properties and organized the structure.
+- I commented on the CSS on where I made changes.
 
 ## Site Screenshot 
-
+![Alt text](screencapture-127-0-0-1-5500-index-html-2023-10-05-22_54_55.png)
 ## Link to Deployed Attributes 
-https://hjenp22.github.io/HW01-accessibility/
+- [Horiseon Website](https://hjenp22.github.io/HW01-Horiseon-Website-Made-Accessible/)
 
 ## About the Author
 - Email: hjipark22@gmail.com
